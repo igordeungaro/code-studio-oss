@@ -74,3 +74,12 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 Copyright (c) Microsoft Corporation. All rights reserved.
 
 Licensed under the [MIT](LICENSE.txt) license.
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [microsoft/vscode](https://github.com/microsoft/vscode), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/microsoft/vscode
